@@ -19,7 +19,7 @@
 
 - A Full-Stack deveolper using (MERN)
 - Graduted from Akhbar-Elyom-Academy with A+ in graduation project
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume]()
 
 <br><br>
 
