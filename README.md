@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Osama Barakat </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Full-stack+Developer,;Computer+Science+gradutee,;ITI+Trainee,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Reactjs+Developer,;Computer+Science+gradutee,;ITI+Trainee,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -18,8 +18,8 @@
 <br>
 
 - A Full-Stack deveolper using (MERN)
-- Graduted from Akhbar-Elyom-Academy with A+ in graduation project
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]()
+- Graduated from Akhbar-Elyom-Academy with A+ in graduation project
+- I’m currently open for an internship or a new job opportunity
 
 <br><br>
 
@@ -44,11 +44,6 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 	![ReactJs](https://img.shields.io/badge/ReactJs%20-%ce3a3a.svg?style=for-the-badge&logo=react&logoColor=white)
 	![Angular](https://img.shields.io/badge/Angular%20-%23E34F26.svg?style=for-the-badge&logo=angular&logoColor=white)
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
 <br>
 
