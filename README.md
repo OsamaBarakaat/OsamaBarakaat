@@ -17,7 +17,7 @@
 
 <br>
 
-- A Full-Stack deveolper using (MERN)
+- A Front End Developer using ReactJs
 - Graduated from Akhbar-Elyom-Academy with A+ in graduation project
 - I’m currently open for an internship or a new job opportunity
 
