@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Osama Barakat </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Reactjs+Developer,;Computer+Science+gradutee,;ITI+Trainee,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Reactjs+Developer,;Nextjs+Developer,;Computer+Science+gradutee,;ITI+gradutee,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -15,9 +15,11 @@
 
 <br>
 
-- A Front End Developer using ReactJs
+- A Front End Developer using ReactJs and NextJs
 - Graduated from Akhbar-Elyom-Academy with A+ in graduation project
-- I’m currently open for an internship or a new job opportunity
+- Graduated from Information-Technology-Institute (ITI) as a full stack web dev using MEARN
+- Full-Time Front-end developer @ V.Connect Company
+- Part-Time Front-end Trainer @ICTHub Egypt Company
 
 <br><br>
 
